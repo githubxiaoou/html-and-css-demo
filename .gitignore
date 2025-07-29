@@ -1,0 +1,11 @@
+/node_modules/
+.DS_Store
+/.vscode/
+/.idea/
+/.cache/
+/.history/
+/.env
+/.env.local
+/.env.development.local 
+
+/package-lock.json
